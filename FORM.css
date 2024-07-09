@@ -1,0 +1,37 @@
+.container{
+    background-image: url("https://img.freepik.com/premium-photo/cute-white-kitten-looking-butterfly-kitten-is-sitting-blue-background-butterfly-is-white-has-blue-markings-its-wings_14117-501632.jpg");
+    margin:20px 650px;
+    padding:30px;
+    border-radius:40px;
+    padding: 30px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+   width: 100%;
+   max-width: 500px;
+
+}
+ 
+ label{
+    font-weight:bold;
+    display: block;
+    margin:20px;
+ }
+ input{
+    border-radius: 40px;
+ }
+ * {
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0;
+   font-family: Arial, sans-serif;
+}
+
+    body{
+        background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTac3RG0on8kDG24LtOkbzpusyqoBqa0Kbrfpm6DbEIE0n4x93yrDkUS9lVZFnCGx-pLMU&usqp=CAU");
+        display: table-row-group;
+        text-align: center;
+    }
+    button{
+        margin: 50px;
+        background-color: green;
+    }
+    
